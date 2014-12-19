@@ -1,6 +1,15 @@
 # Service Contracts
-This is a collection of simple and relatively generic service contracts
-for the Design / Development crowd.
+This aims to be a legally defensible fork of Daniel Beardsley's [Service
+Contracts](https://github.com/danielbeardsley/service_contracts) project, a
+collection of simple and relatively generic service contracts for the Design /
+Development crowd.  It's necessary because he's only interested in
+[readability, not legal
+defensibility](https://github.com/danielbeardsley/service_contracts/pull/3).
+
+The authoritative fork is maintained on
+[GitLab](https://gitlab.com/colan/service_contracts_legal).  Please open any
+tickets or merge requests over there.  A mirror is maintained on
+[GitHub](https://github.com/colans/service_contracts) for convenience.
 
 ## How To Use
 1. Clone the repository locally.
